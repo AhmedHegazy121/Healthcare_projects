@@ -38,8 +38,8 @@ Focus areas include patient billing, procedure cost distribution, departmental r
   - Infrastructure enhancements
   - Community outreach programs
 ### Documentation
--[Documentation](Doc/HospitalBilling.pdf)
--[Video]()
+- [Documentation](Doc/HospitalBilling.pdf)
+- [Video](https://www.linkedin.com/posts/hegazy-ahmed_powerbi-dax-dataanalytics-activity-7330721837372403712-aQRb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA)
 
 
 ## 📈 Tools Used
