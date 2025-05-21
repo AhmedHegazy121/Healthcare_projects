@@ -77,7 +77,7 @@ Billing decreased across both weekdays and weekends, with weekend billing experi
 The sharper decline in weekend billing suggests an opportunity to review resource allocation and service availability strategies. Optimizing weekend operations could help recover lost revenue and improve overall performance.
 
 
-***3. Departmental Decline**
+**3. Departmental Decline**
 
 
 **🧾 Insight:**
