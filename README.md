@@ -109,9 +109,9 @@ Focus areas include patient billing, procedure cost distribution, departmental r
 > Weekday billing is generally more stable and efficient, while weekend billing—especially Sundays—underperforms.
 
 
- **📌 Why It Matters:**
+>  **📌 Why It Matters:**
  
-The contrast between weekdays and weekends suggests an opportunity to optimize scheduling, increase service availability, or promote weekend services to balance capacity and revenue.
+> The contrast between weekdays and weekends suggests an opportunity to optimize scheduling, increase service availability, or promote weekend services to balance capacity and revenue.
 
     
 #### Documentation
