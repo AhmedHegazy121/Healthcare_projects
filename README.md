@@ -48,5 +48,5 @@ Focus areas include patient billing, procedure cost distribution, departmental r
 - Data Modeling  
 - Data Visualization
 
-![](Pic/TotalBilling.png)
+![](Pic/TotalBilling.png)  ![](Pic/compare.png)
 ---
