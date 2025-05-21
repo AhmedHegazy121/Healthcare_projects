@@ -1,6 +1,6 @@
 
 ---
-# 🏥 Healthcar  Projects
+# 🏥 Healthcare Provider  Projects
 
 A collection of healthcare analytics dashboards and insights powered by **Power BI** and **DAX**.  
 Focus areas include patient billing, procedure cost distribution, departmental revenue analysis, and regional performance.
