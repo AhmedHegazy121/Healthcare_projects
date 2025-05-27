@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <b>⬅Check</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>➡️</b>
+  <b>⬅Check</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>➡</b>
 </p>
 
 ---
