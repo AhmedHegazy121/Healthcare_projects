@@ -43,11 +43,7 @@
 > 
 > Which departments need operational improvement to reduce wait times?
 
-    
-#### Documentation
-[The Report](Doc/ER_Emerggency_Room.pbix)
-[Documentation](Doc/Emergency_Room_Analysis.pdf)
-[Video]()
+
 <h4 align="center">📄 Documentation</h4>
 
 <p align="center">
@@ -162,19 +158,26 @@ Focus areas include patient billing, procedure cost distribution, departmental r
 > Weekday billing is generally more stable and efficient, while weekend billing—especially Sundays—underperforms.
 
 
-
-
-    
-#### Documentation
-- [Documentation](Doc/HospitalBilling.pdf)
-- [Video](https://www.linkedin.com/posts/hegazy-ahmed_powerbi-dax-dataanalytics-activity-7330721837372403712-aQRb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA)
-
-
 #### 📈 Tools Used
 - Power BI  
 - DAX  
 - Data Modeling  
 - Data Visualization
+  
+<h4 align="center">📄 Documentation</h4>
+
+<p align="center">
+  <a href="Doc/Healthcare.pbix" style="margin: 0 20px; text-decoration: none;">
+    📊 <b>The Report (.pbix)</b>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="Doc/HospitalBilling.pdf" style="margin: 0 20px; text-decoration: none;">
+    📘 <b>Documentation (.pdf)</b>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/posts/hegazy-ahmed_powerbi-dax-dataanalytics-activity-7330721837372403712-aQRb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA" style="margin: 0 20px; text-decoration: none;">
+    🎥 <b>Video</b>
+  </a>
+</p>
 
 ![](Pic/TotalBilling.png)  ![](Pic/compare.png)
----
