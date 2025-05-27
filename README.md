@@ -48,6 +48,16 @@
   ➡️
   <img src="Pic/EmergencyRoom2.png" width="300" alt="Image 2">
 </p>
+
+<p align="center">
+  <img src="Pic/EmergencyRoom.png" alt="Emergency Room 1" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-right: 20px;">
+  <img src="Pic/EmergencyRoom2.png" alt="Emergency Room 2" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
+
+<p align="center">
+  <b>⬅️ Before</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>After ➡️</b>
+</p>
+
 ---
 # 🏥 Healthcare Provider  Projects
 
