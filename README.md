@@ -43,6 +43,12 @@
 > 
 > Which departments need operational improvement to reduce wait times?
 
+    
+#### Documentation
+[The Report](Doc/ER_Emerggency_Room.pbix)
+[Documentation](Doc/Emergency_Room_Analysis.pdf)
+[Video]()
+
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <span style="text-align: center;">
@@ -55,7 +61,10 @@
    
   </span>
 </p>
+
+
 ---
+
 # 🏥 Healthcare Provider  Projects
 
 A collection of healthcare analytics dashboards and insights powered by **Power BI** and **DAX**.  
