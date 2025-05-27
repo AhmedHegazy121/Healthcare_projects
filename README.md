@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <b>⬅️ Before</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>After ➡️</b>
+  <b>⬅️</b> &nbsp;&nbsp;&nbsp;&nbsp; <b> ➡️</b>
 </p>
 
 ---
