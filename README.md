@@ -43,11 +43,6 @@
 > 
 > Which departments need operational improvement to reduce wait times?
 
-<p align="center">
-  <img src="Pic/EmergencyRoom.png" width="300" alt="Image 1">
-  ➡️
-  <img src="Pic/EmergencyRoom2.png" width="300" alt="Image 2">
-</p>
 
 <p align="center">
   <img src="Pic/EmergencyRoom.png" alt="Emergency Room 1" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-right: 20px;">
@@ -55,7 +50,7 @@
 </p>
 
 <p align="center">
-  <b>⬅Check</b> &nbsp;&nbsp;&nbsp;&nbsp; <b> ➡️</b>
+  <b>⬅Check</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>➡️</b>
 </p>
 
 ---
