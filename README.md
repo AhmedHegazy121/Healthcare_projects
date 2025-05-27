@@ -1,4 +1,20 @@
 
+
+
+
+
+
+
+
+# Emergency Room Visits Analysis
+
+>  In this project, I analyzed Emergency Room visit data to support decision-making related to performance improvement.
+>  The dashboard identifies time-based visit patterns, peak hours, bottlenecks such as long wait times by department, and variations in patient satisfaction by demographic group.
+
+
+
+
+
 ---
 # 🏥 Healthcare Provider  Projects
 
