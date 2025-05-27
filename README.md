@@ -13,8 +13,40 @@
 
 <h3 align="center"> Analytical Questions  </h3>
 
+--
+✅ Overall Performance:
+How many patients visited the Emergency Room this month? Has it increased or decreased compared to last month?
 
+What is the average patient satisfaction score? Has it improved compared to the previous month?
 
+What is the average wait time? Has it gone up or down?
+
+✅ Time Distribution:
+Which days of the week are the busiest?
+
+What are the peak hours during the day?
+
+Which specific day and time experience the highest volume of visits?
+
+(Answer from the dashboard: Thursday at 11:00 PM)
+
+✅ Patient Demographics:
+What is the gender distribution of patients (male vs. female)?
+
+Which age group visits the ER the most? (Children, Adults, Seniors)
+
+✅ Patient Satisfaction:
+How does patient satisfaction vary by race, gender, or age?
+
+Example: White patients have the highest satisfaction (6.05), while Native American/Alaska Native patients have the lowest (4.17).
+
+✅ Wait Time by Referral Department:
+Which department has the longest average wait time?
+
+(Answer: Neurology – 38 minutes)
+
+Which departments need operational improvement to reduce wait times?
+---
 
 ---
 # 🏥 Healthcare Provider  Projects
