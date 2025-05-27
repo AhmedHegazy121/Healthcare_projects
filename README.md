@@ -180,4 +180,15 @@ Focus areas include patient billing, procedure cost distribution, departmental r
   </a>
 </p>
 
-![](Pic/TotalBilling.png)  ![](Pic/compare.png)
+
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <span style="text-align: center;">
+    <img src="Pic/TotalBilling.png" alt="Emergency Room Before" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+    
+  </span>
+  
+  <span style="text-align: center;">
+    <img src="Pic/compare.png" alt="Emergency Room After" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+   
+  </span>
+</p>
