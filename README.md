@@ -42,10 +42,12 @@
 > Which department has the longest average wait time? (Answer: Neurology – 38 minutes)
 > 
 > Which departments need operational improvement to reduce wait times?
-<p align="center">
-  <b> ![](Pic/EmergencyRoom.png)  </b>
-</p>
 
+<p align="center">
+  <img src="Pic/EmergencyRoom.png" width="300" alt="Image 1">
+  ➡️
+  <img src="Pic/EmergencyRoom2.png" width="300" alt="Image 2">
+</p>
 ---
 # 🏥 Healthcare Provider  Projects
 
