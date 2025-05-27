@@ -43,6 +43,8 @@
 > 
 > Which departments need operational improvement to reduce wait times?
 
+#### 📈 Tools Used
+Power BI | DAX | Data Modeling | Data Visualization
 
 <h4 align="center">📄 Documentation</h4>
 
@@ -59,6 +61,8 @@
     🎥 <b>Video</b>
   </a>
 </p>
+
+
 
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
@@ -159,10 +163,9 @@ Focus areas include patient billing, procedure cost distribution, departmental r
 
 
 #### 📈 Tools Used
-- Power BI  
-- DAX  
-- Data Modeling  
-- Data Visualization
+Power BI | DAX | Data Modeling | Data Visualization
+
+
   
 <h4 align="center">📄 Documentation</h4>
 
@@ -179,6 +182,8 @@ Focus areas include patient billing, procedure cost distribution, departmental r
     🎥 <b>Video</b>
   </a>
 </p>
+
+
 
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
