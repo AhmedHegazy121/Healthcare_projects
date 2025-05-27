@@ -2,13 +2,7 @@
 
 
 
-<h3 align="center"> Emergency Room Visits Analysisg  </h3>
-
-<p align="center">
-  <b>🔹    In this project, I analyzed Emergency Room visit data to support decision-making related to performance improvement.🔹</b>
- <b>🔹 The dashboard identifies time-based visit patterns, peak hours, bottlenecks such as long wait times by department, and variations in patient satisfaction by demographic group.
-  🔹</b>
-</p>
+<h1 align="center"> Emergency Room Visits Analysisg  </h1>
 
 
   In this project, I analyzed Emergency Room visit data to support decision-making related to performance improvement.
