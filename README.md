@@ -23,7 +23,9 @@
 
 ✅ Time Distribution:
 > Which days of the week are the busiest?
+> 
 > What are the peak hours during the day?
+> 
 > Which specific day and time experience the highest volume of visits? (Thursday at 11:00 PM)
 
 ✅ Patient Demographics:
