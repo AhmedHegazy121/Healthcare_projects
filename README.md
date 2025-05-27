@@ -16,7 +16,9 @@
 
 ✅ Overall Performance:
 > How many patients visited the Emergency Room this month? Has it increased or decreased compared to last month?
+
 > What is the average patient satisfaction score? Has it improved compared to the previous month?
+
 > What is the average wait time? Has it gone up or down?
 
 ✅ Time Distribution:
