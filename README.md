@@ -48,6 +48,21 @@
 [The Report](Doc/ER_Emerggency_Room.pbix)
 [Documentation](Doc/Emergency_Room_Analysis.pdf)
 [Video]()
+<h4 align="center">📄 Documentation</h4>
+
+<p align="center">
+  <a href="Doc/ER_Emerggency_Room.pbix" style="margin: 0 20px; text-decoration: none;">
+    📊 <b>The Report (.pbix)</b>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="Doc/Emergency_Room_Analysis.pdf" style="margin: 0 20px; text-decoration: none;">
+    📘 <b>Documentation (.pdf)</b>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="#" style="margin: 0 20px; text-decoration: none;">
+    🎥 <b>Video</b>
+  </a>
+</p>
 
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
