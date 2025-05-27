@@ -57,7 +57,7 @@ Power BI | DAX | Data Modeling | Data Visualization
     📘 <b>Documentation (.pdf)</b>
   </a>
   &nbsp;|&nbsp;
-  <a href="#" style="margin: 0 20px; text-decoration: none;">
+  <a href="https://www.linkedin.com/posts/hegazy-ahmed_dataanalytics-healthcareanalytics-dashboard-activity-7333171872848576512-czn3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA" style="margin: 0 20px; text-decoration: none;">
     🎥 <b>Video</b>
   </a>
 </p>
