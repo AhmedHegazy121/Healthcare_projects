@@ -1,14 +1,4 @@
-<p align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <span style="text-align: center;">
-    <img src="Pic/EmergencyRoom.png" alt="Emergency Room Before" width="540" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
-    
-  </span>
-  
-  <span style="text-align: center;">
-    <img src="Pic/EmergencyRoom2.png" alt="Emergency Room After" width="540" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
-   
-  </span>
-</p>
+
 
 
 
@@ -54,15 +44,17 @@
 > Which departments need operational improvement to reduce wait times?
 
 
-<p align="center">
-  <img src="Pic/EmergencyRoom.png" alt="Emergency Room 1" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-right: 20px;">
-  <img src="Pic/EmergencyRoom2.png" alt="Emergency Room 2" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <span style="text-align: center;">
+    <img src="Pic/EmergencyRoom.png" alt="Emergency Room Before" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+    
+  </span>
+  
+  <span style="text-align: center;">
+    <img src="Pic/EmergencyRoom2.png" alt="Emergency Room After" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+   
+  </span>
 </p>
-
-<p align="center">
-
-</p>
-
 ---
 # 🏥 Healthcare Provider  Projects
 
