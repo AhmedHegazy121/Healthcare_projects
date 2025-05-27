@@ -1,4 +1,16 @@
-
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <span style="text-align: center;">
+    <img src="Pic/EmergencyRoom.png" alt="Emergency Room Before" width="540" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+    <br>
+    <b>⬅️ Before</b>
+  </span>
+  
+  <span style="text-align: center;">
+    <img src="Pic/EmergencyRoom2.png" alt="Emergency Room After" width="540" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+    <br>
+    <b>After ➡️</b>
+  </span>
+</p>
 
 
 
