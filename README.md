@@ -104,7 +104,7 @@ Power BI | DAX | Data Modeling | Data Visualization
   </a>
   &nbsp;|&nbsp;
   <a href="Doc/HeartFailure.pptx" style="margin: 0 20px; text-decoration: none;">
-    📘 <b>Documentation (.pdf)</b>
+    📘 <b>Documentation (.pptx)</b>
   </a>
   &nbsp;|&nbsp;
   <a href="#" style="margin: 0 20px; text-decoration: none;">
