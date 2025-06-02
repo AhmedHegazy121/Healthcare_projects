@@ -84,10 +84,15 @@ Power BI | DAX | Data Modeling | Data Visualization
 <h1 align="center"> 🏥 Clinical Survival Analysis of Heart Failure Patients: Uncovering Risk Factors  </h1>
 
 #### Research Questions (or the problems you're trying to solve
+
 > •	What factors affect the likelihood of death or survival in heart failure patients?
+> 
 > •	Is there a relationship between age and survival time?
+> 
 > •	Do gender or chronic conditions (anemia, hypertension, diabetes, smoking) affect the survival rate?
+> 
 > •	What clinical values (such as creatinine, platelets, ejection fraction, sodium) are associated with higher or lower survival rates?
+> 
 > •	Can mortality rate be predicted based on this data?
 
 
