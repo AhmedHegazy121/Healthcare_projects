@@ -80,6 +80,56 @@ Power BI | DAX | Data Modeling | Data Visualization
 
 ---
 
+
+<h1 align="center"> 🏥 Clinical Survival Analysis of Heart Failure Patients: Uncovering Risk Factors  </h1>
+
+#### Research Questions (or the problems you're trying to solve
+> •	What factors affect the likelihood of death or survival in heart failure patients?
+> •	Is there a relationship between age and survival time?
+> •	Do gender or chronic conditions (anemia, hypertension, diabetes, smoking) affect the survival rate?
+> •	What clinical values (such as creatinine, platelets, ejection fraction, sodium) are associated with higher or lower survival rates?
+> •	Can mortality rate be predicted based on this data?
+
+
+<h4 align="center">📄 Documentation</h4>
+
+<p align="center">
+  <a href="Doc/HeartFaliure.pbix" style="margin: 0 20px; text-decoration: none;">
+    📊 <b>The Report (.pbix)</b>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="Doc/HeartFailure.pptx" style="margin: 0 20px; text-decoration: none;">
+    📘 <b>Documentation (.pdf)</b>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="#" style="margin: 0 20px; text-decoration: none;">
+    🎥 <b>Video</b>
+  </a>
+</p>
+
+
+
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <span style="text-align: center;">
+    <img src="Pic/HeartFaliure.png" alt="Pic/HeartFaliure.png" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+    
+  </span>
+  
+  <span style="text-align: center;">
+    <img src="Pic/HeartFaliure2.png" alt="Emergency Room After" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+   
+  </span>
+</p>
+
+
+
+
+
+
+---
+
+
+
 <h1 align="center"> 🏥 Healthcare Provider  Projects  </h1>
 
 A collection of healthcare analytics dashboards and insights powered by **Power BI** and **DAX**.  
