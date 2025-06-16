@@ -132,15 +132,40 @@ Power BI | DAX | Data Modeling | Data Visualization
 
 I recently worked on a project where I explored a medical insurance dataset to find patterns and insights. Here’s what I analyzed:
 
+
 > ✅ Average, median, and standard deviation of medical charges, BMI, and age
+> 
 > ✅ Comparison of charges and BMI between males and females
+> 
 > ✅ Relationship between number of children and medical costs
+> 
 > ✅ Regions with the highest average costs and BMI
+> 
 > ✅ BMI category breakdown (Underweight, Normal, Overweight, Obese)
+> 
 > ✅ Medical charges distribution using a histogram
+> 
 > ✅ Correlation between BMI and charges using a scatter plot
+> 
 > ✅ Smoking + region impact on medical costs
+> 
 > ✅ Dashboard with filters for gender, region, smoking status, and BMI
+
+
+<h4 align="center">📄 Documentation</h4>
+
+<p align="center">
+  <a href="Doc/insurance.xlsx" style="margin: 0 20px; text-decoration: none;">
+    📊 <b>The Report (xlsx)</b>
+  </a>
+ 
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/posts/hegazy-ahmed_dataanalytics-healthcaredata-datavisualization-activity-7340224003782905856-jiaO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA" style="margin: 0 20px; text-decoration: none;">
+    🎥 <b>Video</b>
+  </a>
+</p>
+
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <span style="text-align: center;">
