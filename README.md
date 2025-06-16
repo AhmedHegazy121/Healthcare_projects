@@ -127,7 +127,32 @@ Power BI | DAX | Data Modeling | Data Visualization
 </p>
 
 
+---
+<h1 align="center"> Analyzing Medical Costs with Data   </h1>
 
+I recently worked on a project where I explored a medical insurance dataset to find patterns and insights. Here’s what I analyzed:
+
+> ✅ Average, median, and standard deviation of medical charges, BMI, and age
+> ✅ Comparison of charges and BMI between males and females
+> ✅ Relationship between number of children and medical costs
+> ✅ Regions with the highest average costs and BMI
+> ✅ BMI category breakdown (Underweight, Normal, Overweight, Obese)
+> ✅ Medical charges distribution using a histogram
+> ✅ Correlation between BMI and charges using a scatter plot
+> ✅ Smoking + region impact on medical costs
+> ✅ Dashboard with filters for gender, region, smoking status, and BMI
+
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <span style="text-align: center;">
+    <img src="Pic/insurance.png" alt="Pic/HeartFaliure.png" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+    
+  </span>
+  
+  <span style="text-align: center;">
+    <img src="Pic/insurance2.png" alt="Emergency Room After" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+   
+  </span>
+</p>
 
 
 
