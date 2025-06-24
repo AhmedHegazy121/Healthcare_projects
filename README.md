@@ -231,7 +231,7 @@ However, analyzing hemoglobin by gender could reveal more meaningful patterns or
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <span style="text-align: center;">
-    <img src="Pic/insurance.png" alt="Pic/HeartFaliure.png" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+    <img src="Pic/BloodTest.png" alt="Pic/HeartFaliure.png" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
     
 
 </p>
