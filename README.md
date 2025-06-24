@@ -81,6 +81,11 @@ Power BI | DAX | Data Modeling | Data Visualization
 ---
 
 
+
+
+
+
+
 <h1 align="center"> 🏥 Clinical Survival Analysis of Heart Failure Patients: Uncovering Risk Factors  </h1>
 
 #### Research Questions (or the problems you're trying to solve
@@ -127,6 +132,7 @@ Power BI | DAX | Data Modeling | Data Visualization
 </p>
 
 
+
 ---
 <h1 align="center"> Analyzing Medical Costs with Data   </h1>
 
@@ -164,6 +170,62 @@ I recently worked on a project where I explored a medical insurance dataset to f
   <a href="https://www.linkedin.com/posts/hegazy-ahmed_dataanalytics-healthcaredata-datavisualization-activity-7340224003782905856-jiaO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA" style="margin: 0 20px; text-decoration: none;">
     🎥 <b>Video</b>
   </a>
+</p>
+
+
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <span style="text-align: center;">
+    <img src="Pic/insurance.png" alt="Pic/HeartFaliure.png" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+    
+
+</p>
+
+---
+<h1 align="center"> 🩺 Patient Blood Test Report – Key Insights  </h1>
+
+- Balanced Gender Distribution
+
+The dataset includes 50 patients, equally divided between males and females (25 each).
+
+This balanced distribution enables fair and unbiased gender-based analysis.
+
+- Positive Correlation between WBC and Platelets
+
+A strong positive relationship is observed: as White Blood Cell (WBC) count increases, Platelet count also increases.
+
+This may indicate a synchronized immune response worth further investigation.
+
+- Cholesterol Levels – Females Tend to Have Lower Values
+
+Most female patients fall within the lower cholesterol range compared to males.
+
+This could reflect differences in diet, lifestyle, or metabolic health.
+
+- Glucose Levels – Higher in Males
+
+The glucose distribution shows that male patients tend to have higher glucose levels than females.
+
+This may suggest a difference in metabolic activity or potential risk factors by gender.
+
+- Age Distribution by Gender
+
+Female patients are mostly in the 30–40 age group.
+
+Male patients are more widely distributed across the 40–60 age range.
+
+This difference may influence test results and should be considered in deeper analysis.
+
+- Hemoglobin Levels – Normal on Average, But Gender Breakdown Needed
+
+The average hemoglobin level is 13.16 g/dL, which is within a healthy range.
+
+However, analyzing hemoglobin by gender could reveal more meaningful patterns or deficiencies.
+
+
+
+
+
+
 </p>
 
 
