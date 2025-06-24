@@ -227,7 +227,7 @@ However, analyzing hemoglobin by gender could reveal more meaningful patterns or
   
 
   </a>
-  &nbsp;|&nbsp;
+
   <a href="https://public.tableau.com/shared/MXFTPX6DP?:display_count=n&:origin=viz_share_link">
     🎥 <b>Tabluea</b>
   </a>
