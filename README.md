@@ -301,25 +301,25 @@ Developed interactive dashboards analyzing key areas such as patient billing, pr
 
 
 
-- **1. Year-over-Year Billing Drop**
+- **Year-over-Year Billing Drop**
  
  There has been a significant 29.6% drop in total billing from 2024 to 2025. This decline may indicate underlying issues affecting overall revenue.
 
-- **2. Weekday vs. Weekend Billing**
+- **Weekday vs. Weekend Billing**
 
  Billing decreased across both weekdays and weekends, with weekend billing experiencing a steeper decline. Possible drivers could include changes in customer behavior or operational inefficiencies.
 
 
-- **3. Departmental Decline**
+- **Departmental Decline**
 
  Every department experienced a significant billing decline, with Cardiology and Pediatrics hit the hardest. Potential causes may include patient volume drops or operational challenges.
 
 
-- **4. Monthly Billing Fluctuations**
+- **Monthly Billing Fluctuations**
 
 January’s spike may reflect a post-holiday backlog or rescheduled procedures from December. However, the overall yearly trend remains negative, signaling weaker demand in subsequent months.
 
-- **5. Weekday Billing Patterns**
+- **Weekday Billing Patterns**
  Weekday billing is generally more stable and efficient, while weekend billing—especially Sundays—underperforms.
 
 
