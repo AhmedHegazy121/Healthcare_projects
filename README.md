@@ -184,9 +184,13 @@ I recently worked on a project where I explored a medical insurance dataset to f
 <h1 align="center"> 🩺 Patient Blood Test Report – Key Insights  </h1>
 
 #### • Balanced Gender Distribution
+
+
 > The dataset includes 50 patients, equally divided between males and females (25 each).
 > 
 > This balanced distribution enables fair and unbiased gender-based analysis.
+
+
 #### • Positive Correlation between WBC and Platelets
 > A strong positive relationship is observed: as White Blood Cell (WBC) count increases, Platelet count also increases.
 > 
