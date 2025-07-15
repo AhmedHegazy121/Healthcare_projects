@@ -161,23 +161,7 @@ I recently worked on a project where I explored a medical insurance dataset to f
 
 <h4 align="center">📄 Documentation</h4>
 
-<p align="center">
-  <a href="Doc/insurance.xlsx" style="margin: 0 20px; text-decoration: none;">
-    📊 <b>The Report (xlsx)</b>
-  
- 
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/posts/hegazy-ahmed_dataanalytics-healthcaredata-datavisualization-activity-7340224003782905856-jiaO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA" style="margin: 0 20px; text-decoration: none;">
-    🎥 <b>Video</b>
-  </a>
-</p>
 
-
-<p align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <span style="text-align: center;">
-    <img src="Pic/insurance.png" alt="Pic/HeartFaliure.png" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">   
-</p>
 
 
 ---
