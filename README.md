@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> Emergency Room Visits Analysisg  </h1>
+<h1 align="center"> Emergency Room Visits Analysis  </h1>
 
 
   In this project, I analyzed Emergency Room visit data to support decision-making related to performance improvement.
@@ -134,6 +134,7 @@ Power BI | DAX | Data Modeling | Data Visualization
 
 
 ---
+
 <h1 align="center"> Analyzing Medical Costs with Data   </h1>
 
 I recently worked on a project where I explored a medical insurance dataset to find patterns and insights. Here’s what I analyzed:
@@ -176,11 +177,12 @@ I recently worked on a project where I explored a medical insurance dataset to f
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <span style="text-align: center;">
     <img src="Pic/insurance.png" alt="Pic/HeartFaliure.png" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
-    
-
+   
 </p>
 
+
 ---
+
 <h1 align="center"> 🩺 Patient Blood Test Report – Key Insights  </h1>
 
 #### • Balanced Gender Distribution
@@ -219,80 +221,27 @@ I recently worked on a project where I explored a medical insurance dataset to f
 > 
 > However, analyzing hemoglobin by gender could reveal more meaningful patterns or deficiencies.
 
-
-  
-
 <p align="center">
-
   <a href="https://public.tableau.com/shared/MXFTPX6DP?:display_count=n&:origin=viz_share_link">
-    🎥 <b>Tabluea</b>
-  </a>
-
-</p>
+    🎥 <b>Tabluea</b> </a>  
+  </p>
 
 
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <span style="text-align: center;">
     <img src="Pic/BloodTest.png" alt="Pic/HeartFaliure.png" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
-    
-
-</p>
-
----
-<h1 align="center">🩺 Patient Blood Test Report – Key Insights</h1>
-
-### 🔹 Balanced Gender Distribution
-- The dataset includes **50 patients**, equally divided between males and females (25 each).
-- This balanced distribution allows for **fair and unbiased gender-based analysis**.
-
-### 🔹 Positive Correlation between WBC and Platelets
-- A **strong positive relationship** is observed: as White Blood Cell (WBC) count increases, Platelet count also increases.
-> This may indicate a synchronized immune response worth further investigation.
-
-### 🔹 Cholesterol Levels – Lower in Females
-- Most female patients fall within the **lower cholesterol range** compared to males.
-> This could reflect differences in diet, lifestyle, or metabolic health.
-
-### 🔹 Glucose Levels – Higher in Males
-- Male patients tend to have **higher glucose levels** than females.
-> This might suggest differences in metabolic activity or risk factors by gender.
-
-### 🔹 Age Distribution by Gender
-- Female patients are mostly aged **30–40**.
-- Male patients are spread across the **40–60** age range.
-> This difference could influence test results and should be considered in further analysis.
-
-### 🔹 Hemoglobin Levels – Normal on Average
-- The average hemoglobin level is **13.16 g/dL**, which is within a healthy range.
-> However, a gender-based breakdown may reveal more meaningful insights.
-
-
-
-<p align="center">
-  <a href="https://public.tableau.com/shared/MXFTPX6DP?:display_count=n&:origin=viz_share_link">
-    🎥 <b>View Interactive Dashboard on Tableau</b>
-  </a>
-</p>
-
-<p align="center">
-  <img src="Pic/BloodTest.png" alt="Blood Test Dashboard" width="700">
 </p>
 
 
 ---
-
 
 
 <h1 align="center"> 🏥 Healthcare Provider  Projects  </h1>
 
 Developed interactive dashboards analyzing key areas such as patient billing, procedure costs, departmental revenue, and regional performance.
 
-
-
-
  
-
 -  **💰 Financial Overview**
   
 > **Insurance Coverage:** ~66.7% of total healthcare costs
@@ -330,7 +279,7 @@ Developed interactive dashboards analyzing key areas such as patient billing, pr
 >  Community outreach programs
 
 
-  <p align="center">
+<p align="center">
   <b>🔹  Billing Analysis: Key Insights 🔹</b>
 </p>
 
@@ -338,24 +287,29 @@ Developed interactive dashboards analyzing key areas such as patient billing, pr
 
 - **Year-over-Year Billing Drop**
  
- There has been a significant 29.6% drop in total billing from 2024 to 2025. This decline may indicate underlying issues affecting overall revenue.
+ >  There has been a significant 29.6% drop in total billing from 2024 to 2025. This decline may indicate underlying issues affecting overall revenue.
 
 - **Weekday vs. Weekend Billing**
 
  Billing decreased across both weekdays and weekends, with weekend billing experiencing a steeper decline. Possible drivers could include changes in customer behavior or operational inefficiencies.
 
 
+
 - **Departmental Decline**
 
- Every department experienced a significant billing decline, with Cardiology and Pediatrics hit the hardest. Potential causes may include patient volume drops or operational challenges.
+> Every department experienced a significant billing decline, with Cardiology and Pediatrics hit the hardest. Potential causes may include patient volume drops or operational challenges.
+
 
 
 - **Monthly Billing Fluctuations**
 
-January’s spike may reflect a post-holiday backlog or rescheduled procedures from December. However, the overall yearly trend remains negative, signaling weaker demand in subsequent months.
+> January’s spike may reflect a post-holiday backlog or rescheduled procedures from December. However, the overall yearly trend remains negative, signaling weaker demand in subsequent months.
+
 
 - **Weekday Billing Patterns**
- Weekday billing is generally more stable and efficient, while weekend billing—especially Sundays—underperforms.
+  
+>  Weekday billing is generally more stable and efficient, while weekend billing—especially Sundays—underperforms.
+
 
 
 #### 📈 Tools Used
