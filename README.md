@@ -223,7 +223,7 @@ I recently worked on a project where I explored a medical insurance dataset to f
 <p align="center">
   <a href="https://public.tableau.com/shared/MXFTPX6DP?:display_count=n&:origin=viz_share_link">
     🎥 <b>Tabluea</b> </a>  
-  </p>
+</p>
 
 
 
