@@ -218,15 +218,14 @@ I recently worked on a project where I explored a medical insurance dataset to f
 
 <p align="center">
   <a href="https://public.tableau.com/shared/MXFTPX6DP?:display_count=n&:origin=viz_share_link">
-    🎥 <b>Tabluea</b> </a>  
+    🎥 <strong>Tableau Dashboard</strong>
+  </a>
 </p>
 
-
-
-<p align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <span style="text-align: center;">
-    <img src="Pic/BloodTest.png" alt="Pic/HeartFaliure.png" width="700" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border: 1px solid #ddd;">
+<p align="center">
+  <img src="Pic/BloodTest.png" alt="Blood Test Dashboard" width="700">
 </p>
+
 
 
 ---
