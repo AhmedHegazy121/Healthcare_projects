@@ -160,7 +160,19 @@ I recently worked on a project where I explored a medical insurance dataset to f
 
 
 <h4 align="center">📄 Documentation</h4>
+<p align="center">
+  <a href="Doc/insurance.xlsx">
+    📊 <strong>The Report (xlsx)</strong>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/posts/hegazy-ahmed_dataanalytics-healthcaredata-datavisualization-activity-7340224003782905856-jiaO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcRge4BCiq6ISTAKxBtggfkK4mfvjG5IyA">
+    🎥 <strong>Video</strong>
+  </a>
+</p>
 
+<p align="center">
+  <img src="Pic/insurance.png" alt="Insurance Report" width="700">
+</p>
 
 
 
