@@ -251,11 +251,10 @@ I recently worked on a project where I explored a medical insurance dataset to f
 
 <h1 align="center"> 🏥 Healthcare Provider  Projects  </h1>
 
-A collection of healthcare analytics dashboards and insights powered by **Power BI** and **DAX**.  
-Focus areas include patient billing, procedure cost distribution, departmental revenue analysis, and regional performance.
+Developed interactive dashboards analyzing key areas such as patient billing, procedure costs, departmental revenue, and regional performance.
 
 
-- Key Insights 
+
 
  
 
