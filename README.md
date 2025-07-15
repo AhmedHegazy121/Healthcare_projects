@@ -239,9 +239,8 @@ I recently worked on a project where I explored a medical insurance dataset to f
 
 </p>
 
-<h1 align="center">🩺 Patient Blood Test Report – Key Insights</h1>
-
 ---
+<h1 align="center">🩺 Patient Blood Test Report – Key Insights</h1>
 
 ### 🔹 Balanced Gender Distribution
 - The dataset includes **50 patients**, equally divided between males and females (25 each).
@@ -267,8 +266,6 @@ I recently worked on a project where I explored a medical insurance dataset to f
 ### 🔹 Hemoglobin Levels – Normal on Average
 - The average hemoglobin level is **13.16 g/dL**, which is within a healthy range.
 > However, a gender-based breakdown may reveal more meaningful insights.
-
----
 
 
 
